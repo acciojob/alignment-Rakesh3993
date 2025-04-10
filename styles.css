@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.middle {
+	border:1px solid black;
+	spacing: 1px;
+	margin:20px;
+}
+
+.middle, tr {
+	padding: 1px;
+	height: 15px;
+}
